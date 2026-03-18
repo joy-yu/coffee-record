@@ -1,4 +1,4 @@
-import { MemoryRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import NewRecord from './pages/NewRecord';
@@ -26,8 +26,8 @@ function AppContent() {
 
 export default function App() {
   return (
-    <MemoryRouter>
+    <BrowserRouter>
       <AppContent />
-    </MemoryRouter>
+    </BrowserRouter>
   );
 }

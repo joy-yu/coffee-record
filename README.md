@@ -19,18 +19,18 @@
 
 ## 技术栈
 
-| 分类 | 选型 |
-|------|------|
-| 框架 | React 19 + Vite 6 |
-| 语言 | TypeScript 5（strict 模式） |
-| 路由 | React Router v7（BrowserRouter） |
-| 样式 | Tailwind CSS v4 |
-| 图表 | Recharts（RadarChart） |
-| 图标 | Lucide React |
-| 日期 | date-fns v4 |
-| 存储 | localStorage（key: `coffee_records_v1`） |
-| 字体 | 系统内置字体，无网络加载 |
-| 格式化 | Prettier |
+| 分类   | 选型                                     |
+| ------ | ---------------------------------------- |
+| 框架   | React 19 + Vite 6                        |
+| 语言   | TypeScript 5（strict 模式）              |
+| 路由   | React Router v7（BrowserRouter）         |
+| 样式   | Tailwind CSS v4                          |
+| 图表   | Recharts（RadarChart）                   |
+| 图标   | Lucide React                             |
+| 日期   | date-fns v4                              |
+| 存储   | localStorage（key: `coffee_records_v1`） |
+| 字体   | 系统内置字体，无网络加载                 |
+| 格式化 | Prettier                                 |
 
 ---
 
